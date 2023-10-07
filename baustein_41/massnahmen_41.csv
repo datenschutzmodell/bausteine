@@ -1,0 +1,31 @@
+Nr.,Maßnahme,P, D, C, A1,Gültigkeit
+M41.D01,"Spezifikation der Daten, die von der Verarbeitungstätigkeit verarbeitet werden",P,V1.0
+M41.S01,Aufträge aus der Spezifikation sollten in Form eines Lasten und Pflichtenheft erfolgen,P,V1.0
+M41.S02,"Allgemein verständliches Erfassen und Benennen der Daten, IT-Systeme und Dienste sowie der Prozesse",P,V1.0
+M41.S03,Spezifikation der Fachapplikation,P,V1.0
+M41.S04,Spezifikation eines Protokollierungskonzepts,P,V1.0
+M41.S05,Spezifikation der IT-Infrastruktur und IT-Systeme in Bezug auf Erfüllung des Zwecks und der technischen und organisatorischen Maßnahmen,P,V1.0
+M41.S06,Spezifikation der Schnittstellen der Systeme,P,V1.0
+M41.P01,"Durchführen einer Risikoanalyse, die der Durchführung einer DSFA vorausgeht („Schwellwertanalyse“)",P,V1.0
+M41.P03,"Festlegen der Spezifikationstiefe, mit ihren jeweiligen Daten, Systemen und Diensten sowie Prozessen",P,V1.0
+M41.P04,Rechtliche Beurteilung einer Spezifikation während der Planungsphase,P,V1.0
+M41.P05,"Herstellung einer hinreichend ausführlichen Beschreibung der Verarbeitungstätigkeit einschl. der dabei zu verwendenden Daten, Systeme und Dienste sowie Prozesse",P,V1.0
+M41.P06,Identifikation der an der Bearbeitung beteiligten Akteure und Betroffenen,P,V1.0
+M41.P07,Identifikation der Rechtsgrundlagen bzw. der noch beizubringenden Rechtsgrundlagen,P,V1.0
+M41.P08,Bildung von Einsatzszenarien bzw. Usecases einschl. eines daraus abgeleiteten datenschutzrechtlich relevanten Angreifermodells,P,V1.0
+M41.P09,"Festlegung der Strukturen der Spezifikation, Dokumentation, Protokollierung",P,V1.0
+M41.P10,"Anhand der Gewährleistungsziele und der Risikostufe die notwendigen technischen und organisatorischen Maßnahmen für die geplanten Einsatzszenarien erkennen, bestimmen und dimensionieren",P,1.0
+M41.P11,Erarbeitung eines Migrationskonzepts für Übernahme von Altdaten,P,V1.0
+M41.P12,Erstellung eines Berichts zur Spezifikation einer Verarbeitungstätigkeit vor Entscheidungen des Verantwortlichen zur  Implementation empfohlener Maßnahmen,P,V1.0
+M41.P13,Erstellung eines Konzepts zur Umsetzung der Empfehlungen aus der Spezifikationsphase oder aus einem DSFA-Bericht,P,V1.0
+M41.P14,Erstellung eines Konzepts zur Durchführung von Test der implementierten Maßnahmen,P,V1.0
+M41.P15,Erstellung eines Konzepts für eine Pilotphase,P,V1.0
+M41.P16,Festlegung der Übergabe von Projekt- und Betriebsmodus unter Sicherstellung der Überwachung des Betriebs durch das DS-Management durch den Verantwortlichen,P,V1.0
+M41.P17,Festlegung der zu spezifizierenden Ebenen der Verarbeitungstätigkeit,P,V1.0
+M41.P18,"Spezifikation der fachlichen Prozessabläufe, zunächst unter allgemeiner Beschreibung der verwendeten IT- Komponenten",P,V1.0
+M41.P19,Spezifikation der Aktivitäten der lokalen Administration von Programmen und Systemen,P,V1.0
+M41.P20,Spezifikation der Aktivitäten Administration von Programmen und Systemen bei Nutzung einer AV,P,V1.0
+M41.P21,Spezifikation der Überwachung der Aktivitäten der Administration durch Protokolle,P,V1.0
+M41.P22,Erstellen des DSFA-Berichts,P,V1.0
+M41.P23,Nutzung einer Prozessmodellierungsmethode,P,V1.0
+M41.P24,"Spezifikation der Durchführung einer DSFA (Projektmanager, Methode)",P,V1.0

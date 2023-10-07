@@ -1,0 +1,38 @@
+Nr.,Maßnahme,PDCA,Gültigkeit
+M42.D01,Prüfung auf hinreichende Darstellung des Datenmodells in M42.P20,"P, C",V1.0
+M42.S01,"Dokumentation der Systeme und Dienste, ggf. Querverweise in M42.P20 (P, C)","P, C",V1.0
+M42.P01,Strukturierung der Gesamtdokumentation,P,V1.0
+M42.P02,Festlegung zur Form der Dokumentation (Papier/Datei/Datenbank),P,V1.0
+M42.P03,Festlegungen für ein in Notfällen verfügbares und aktuelles Backup der Dokumentation,P,V1.0
+M42.P04,Festlegungen von Aktualisierungs- und Fortschreibungsregeln für die Dokumentation,P,V1.0
+M42.P05,Zugriffssicherung der Dokumentation,P,V1.0
+M42.P06,Rahmendokumentation mit Übersicht undBeschreibung des Aufbaus der Dokumentation sowie der Aufbewahrungsorte und –medien,,V1.0
+M42.P07,Organigramm bzw. Geschäftsverteilungsplan,"P, C",V1.0
+M42.P08,übergreifende Geschäftsprozesse,P,V1.0
+M42.P09,Dokumentation der Bestellung des/der Datenschutzbeauftragten,"P, C",V1.0
+M42.P10,Netzpläne,"P, C",V1.0
+M42.P11,Dienst-/Betriebsanweisungen und –vereinbarungen,"P, C",V1.0
+M42.P12,"Rahmen-Datenschutzkonzept (Handbücher übergreifende Schutzmaßnahmen, Verantwortliche und Ansprechpartner)","P, C",V1.0
+M42.P13,Dokumentation der Datenschutzorganisation gemäß Art. 24 Abs. 1 DS GVO,P,V1.0
+M42.P14,Nachweise von Zertifizierungen für Datenschutz und Informationssicherheit,"P, C",V1.0
+M42.P15,IT-Konzept,P,V1.0
+M42.P16,Risikohandbuch,P,V1.0
+M42.P17,Sicherheitsrichtlinie,P,V1.0
+M42.P18,Sicherheitskonzept,P,V1.0
+M42.P19,Notfallkonzept,P,V1.0
+M42.P20,Verzeichnis der Verarbeitungstätigkeiten gemäß Art. 30 DS-GVO,"P, C",V1.0
+M42.P21,Dokumentation der Umsetzung der Betroffenenrechte gemäß Erwägungsgrund 39 DS-GVO,P,V1.0
+M42.P22,Löschkonzept,P,V1.0
+M42.P23,Verträge zur Auftragsverarbeitung,"P, C",V1.0
+M42.P24,Vereinbarung zwischen den gemeinsam Verantwortlichen gemäß Art. 26 Abs. 1 DS-GVO,"P, C",V1.0
+M42.P25,Konzept der Verarbeitung aus der Planungsphase (sowie bspw. Lastenheft und Pflichtenheft),"P, C",V1.0
+M42.P26,Dokumentation der eingeholten Einwilligungen gemäß Art. 7 Abs. 1 DS-GVO,"P, C",V1.0
+M42.P27,Dokumentation der Schwellwert-Analyse einer Datenschutz-Folgenabschätzung,"P, C",V1.0
+M42.P28,Bericht zur Datenschutz-Folgenabschätzung,P,V1.0
+M42.P29,Nachweis der Wirksamkeit der ergriffenen Schutzmaßnahmen,P,V1.0
+M42.P30,Dokumentation für Ausnahmen für bestimmte Fälle von Übermittlungen gemäß Art. 49 Abs. 6 DS-GVO,P,V1.0
+M42.P31,Dokumentation von Sicherheitsvorfällen gemäß Art. 33 Abs. 2 DS-GVO,"P, C",V1.0
+M42.P32,"Protokollierungskonzept bzw. Dokumentation der genutzten Protokolle inklusive deren Aufbewahrungsorte, Aufbewahrungsfristen und Zugriffsregelungen","P, C",V1.0
+M42.P33,Dokumentation der Prozesse und ggf. Querverweise in M42.P20,"P, C",V1.0
+M42.P34,Dokumentation der Sachbearbeitung und ggf. Querverweise in M42.P20,"P, C",V1.0
+M42.P35,Dokumentation der Administration und ggf. Querverweise in M42.P20,"P, C",V1.0

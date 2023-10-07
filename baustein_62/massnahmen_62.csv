@@ -1,0 +1,37 @@
+Nr.,Maßnahme,PDCA,Gültigkeit
+M62.D01,"Festlegung von Datenstrukturen und Speicherarten, die das Anbringen von Markierungen an einzelne Datenfelder, Datensätze oder vorher definierte Gruppen von Daten in einer vom Schutzbedarf abhängigen Granularität ermöglichen",P,V1.0
+M62.D02,"Bereitstellung von Datenfeldern, die das Anbringen von Einschränkungsfristen ermöglicht",P,V1.0
+M62.D03,"Anfertigen von Datenkopien, in denen die für die Verarbeitung eingeschränkten Daten nicht enthalten sind",D,V1.0
+M62.D04,Separate Speicherung der für die Verarbeitung eingeschränkten Daten,D,V1.0
+M62.D05,Pseudonymisierung der für die Verarbeitung eingeschränkten Daten,D,V1.0
+M62.D06,Verschlüsselung der für die Verarbeitung eingeschränkten Daten,D,V1.0
+M62.D07,"Entfernen der für die Verarbeitung eingeschränkten Daten von den Bereichen von Webseiten oder sozialen Medien, die für zur Verarbeitung nicht berechtigte Nutzergruppen öffentlich zugänglich sind",D,V1.0
+M62.D08,Erhalt der Eigenschaft der eingeschränkten Verarbeitung von Datensätzen bei einer Datensicherung,D,V1.0
+M62.D09,"Erkennung von Daten in Sicherungskopien und Backups, deren Einschränkung der Verarbeitung nach dem Sichern verfügt wurde mit dem Ziel der erneuten Einschränkung der Verarbeitung der rückgesicherten Daten (bspw. durch standardmäßiges Auslesen der Markierung während des Rücksicherns)","D, C",V1.0
+M62.D10,"Entnahme der zur Verarbeitung eingeschränkten Papierdokumente aus einer Akte, Markierung und separate Ablage",D,V1.0
+M62.D11,Protokollierung der Entnahme von zur Verarbeitung eingeschränkten Dokumenten aus einer Akte,"D, C",V1.0
+M62.D12,inhaltsneutrale Formulierung von Markierungen,D,V1.0
+M62.S01,"Systeme, die zur Verarbeitung eingeschränkte Datenbestände erkennen","P, D",V1.0
+M62.S02,"Systeme, bei denen mit Standard-Suchmechanismen die zur Verarbeitung eingeschränkten Datensätze nicht gefunden werden","D, C",V1.0
+M62.S03,Systeme die eingeschränkte Daten nach anderen Regeln verarbeiten oder separate Systeme mit speziellen Verarbeitungsmöglichkeiten für eingeschränkte Daten,P. D,V1.0
+M62.S04,Benachrichtigungsfunktionen bei der Verarbeitung eingeschränkter Daten,"D, C",V1.0
+M62.S05,Verschlüsselungssysteme nach dem Stand der Technik,"P, D",V1.0
+M62.S06,Zeitstempelsysteme oder vergleichbaren Auswertesysteme zur Überwachung und Steuerung von Fristen,"P, D, C",V1.0
+M62.S07,technische Systeme zur automatisierten Umsetzung von Einschränkungen,"P, D",V1.0
+M62.P01,Konzept zur Einschränkung der Verarbeitung,P,V1.0
+M62.P02,Formulare zur Beantragung von Einschränkungen,P,V1.0
+M62.P03,Entgegennahme von Anträge unabhängig von ihrer Form,"P, D",V1.0
+M62.P04,Möglichkeiten der elektronischen Beantragung von Einschränkungen,"P, D",V1.0
+M62.P05,Prozess zur Identitätsprüfung von Antragstellern,"P, C",V1.0
+M62.P06,Prozess zur Dokumentation der Identitätsprüfung,"P, D",V1.0
+M62.P07,"Prozess zur Fristenüberwachung, um Anträge fristgemäß bearbeiten zu können","P, D, C",V1.0
+M62.P08,Prozess zur Markierung der zur Verarbeitung eingeschränkten Daten,"P, D",V1.0
+M62.P09,Prozess zur automatisierten Umsetzung von Einschränkungen,"P, D",V1.0
+M62.P10,Regeln für die weitere eingeschränkte Verarbeitung von Daten,P,V1.0
+M62.P11,Prozess zur Umsetzung aller Mitteilungspflichten gegenüber den von der Einschränkung der Verarbeitung betroffenen Personen,"P, D",V1.0
+M62.P12,"Prozess zur Information der Empfänger, denen zur Verarbeitung eingeschränkte Daten zuvor offengelegt wurden","P, D",V1.0
+M62.P13,Abwägung zwischen Aufwand für die Mitteilung an den Empfänger und betroffen Person,"D, C",V1.0
+M62.P14,"Prozess zur Unterrichtung betroffener Person über Empfänger von Daten, deren Verarbeitung eingeschränkt wurde","P, D",V1.0
+M62.P15,Prozess zur Information betroffener Personen bei Ablehnung des Antrags auf Einschränkung,"P, D, C",V1.0
+M62.P16,revisionssichere Dokumentation des gesamten Antrags- und Entscheidungsprozesses,D,V1.0
+M62.P17,Prozess zur Information betroffener Personen über die Aufhebung der Einschränkung der Verarbeitung,"P, D",V1.0

@@ -1,0 +1,42 @@
+Nr.,Maßnahme,PDCA,Gültigkeit
+M61.D01,Datenmodell mit geeigneten Datenstrukturen,P,V1.0
+M61.D02,Kontrolle der Richtigkeit von Daten bei der Rücksicherung und ggf. erneute Berichtigung,"D, C",V1.0
+M61.D03,Datenfelder zur Speicherung von Zeitverläufen und Datenchronologien,"P, C",V1.0
+M61.D04,Datenfelder zur Speicherung von Zeitangaben oder Zeitstempeln,"P, C",V1.0
+M61.D05,Datenfelder zur Speicherung identifizierender Daten der Antrag stellenden Person,"P, D, C",V1.0
+M61.D06,"feingranulare, auf einzelne Datenfelder bezogene Berichtigungsmöglichkeit",P,V1.0
+M61.S01,"Systeme, die Berichtigungsvorgänge zulassen","P, D",V1.0
+M61.S02,Verfahren zur Einschränkung der Verarbeitung von Daten bei Zweifelsfällen,D,V1.0
+M61.S03,"Trennung von Datenbeständen, um differenziert berichtigen zu können",D,V1.0
+M61.S04,technische Umsetzung des Rechte- und Rollenkonzeptes,"P, D",V1.0
+M61.S05,System zur Fristenüberwachung (ggf. im Zusammenhang mit TTS),"D, C",V1.0
+M61.S06,elektronische Zeitstempelsysteme,"D, C",V1.0
+M61.S07,"Identifizierungssysteme, die Antragsteller sicher identifizieren können","D, C",V1.0
+M61.S08,Identifizierung mit Hilfe der eID-Funktion des neuen Personalausweises,"D, C",V1.0
+M61.S09,Protokollierungssysteme,"D, C",V1.0
+M61.S10,Systeme zur Prüfung der Richtigkeit von Daten nach einer Rücksicherung,"D, C",V1.0
+M61.S11,sichere Übertragungsverfahren wie Ende-zu-Ende-Verschlüsselung nach dem Stand der Technik oder Einschreiben mit Rückschein bei Briefpost,"P, D",V1.0
+M61.S12,etablierter Kommunikationskanal mit aktiver Zwei-Faktor-Authentifizierung,"P, D",V1.0
+M61.P01,Berichtigungskonzept,P,V1.0
+M61.P02,Prozess zur Umsetzung des Rechts betroffener Personen auf Auskunft,P,V1.0
+M61.P03,standardisierter Prozess zur Steuerung des Berichtigungsvorgangs,P,V1.0
+M61.P04,Dokumentation aller Berichtigungsvorgänge,D,V1.0
+M61.P05,Festlegung der Pflichten im Zusammenhang mit Berichtigungen zwischen gemeinsamen Verantwortlichen,P,V1.0
+M61.P06,Festlegung der Mitwirkungspflichten von Auftragsverarbeitern,P,V1.0
+M61.P07,Führen eines Verzeichnisses aller Kopien von personenbezogenen Daten,"D, C",V1.0
+M61.P08,Möglichkeit der rollenabhängigen Konfigurierung von Berichtigungsprozessen und –rechten,P,V1.0
+M61.P09,Dokumentation von Offenlegungen gegenüber Dritten,D,V1.0
+M61.P10,Prozess zur Fristenüberwachung,"D, C",V1.0
+M61.P11,Bereitstellung von Formularen zur Beantragung von Berichtigungen,P,V1.0
+M61.P12,Entgegennahme von Anträge unabhängig von ihrer Form,"P, D",V1.0
+M61.P13,Möglichkeiten der elektronischen Beantragung von Berichtigungen,P,V1.0
+M61.P14,Prozess zur Identitätsprüfung von Antragstellern,"D, C",V1.0
+M61.P15,"Sicherstellung der unverzüglichen Bearbeitung von Anträgen, spätestens innerhalb gesetzlicher Fristen","D, C",V1.0
+M61.P16,Verfahren zur Organisation der Mitteilungspflichten,"P, D",V1.0
+M61.P17,Regelungen zur Umsetzung von Berichtspflichten gegenüber Empfängern von zu berichtigenden Daten,"P, D",V1.0
+M61.P18,Regelungen zur Umsetzung von Berichtspflichten gegenüber Absendern von nachträglich berichtigten Daten,"P, D",V1.0
+M61.P19,Prozess zur ordnungsgemäßen Ablehnung von Berichtigungsanträgen,"P, D",V1.0
+M61.P20,Prozess für turnusmäßige Berichtigungen „im Block“,D,V1.0
+M61.P21,"Prozess, um den Unterlagen des zuständigen Archivs ggf. eine Gegendarstellung der betroffenen Person hinzuzufügen","P, D, C",V1.0
+M61.P22,Prozess für außerplanmäßige „Korrekturläufe“ von Datensicherungen,D,V1.0
+M61.P23,beglaubigte Unterschrift oder beglaubigte Kopie des Personalausweises einfordern,D,V1.0

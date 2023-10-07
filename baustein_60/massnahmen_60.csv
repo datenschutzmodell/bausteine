@@ -1,0 +1,27 @@
+Nr.,Maßnahme,PDCA,Gültigkeit
+M60.D01,"Datenstrukturen und Speicherarten, die das Löschen der Inhalte einzelner Datenfelder, Datensätze oder vorher definierter Gruppen von Daten in einer vom Schutzbedarf abhängigen Granularität ermöglichen","P, D",V1.0
+M60.D02,"Strukturen von Daten und Datenmodellen dergestalt dass das Löschen der Inhalte einzelner Datenfelder Datensätze oder vorher definierter Gruppen von Daten die Integrität der verbleibenden Daten nicht gefährdet,", D,V1.0
+M60.S01,"Überschreiben von Daten, Datenfeldern Datenattributen oder kompletten Datenträgern mit speziellen Löschprogrammen (Wipe-Tools)","P, D",V1.0
+M60.S02,Schreddern zur Vernichtung von Datenträgern jeder Art,D,V1.0
+M60.S03,Einschmelzen oder Verbrennen von Datenträgern jeder Art,D,V1.0
+M60.S04,Integritätssicherung beim Löschen,"P, D",V1.0
+M60.S05,Protokollierung von Löschungen,"P, D",V1.0
+M60.S06,Datensparsame Ausgestaltung der Protokollierung von Löschungen,"P, D",V1.0
+M60.S07,Automatisierte Überwachung von Löschfristen unter Nutzung von Zeitstempelsystemen oder Auswertungen entsprechender Löschattribute,D,V1.0
+M60.S08,Möglichkeiten der Zuordnung zwischen Daten und dem zeitlichen Anknüpfungspunkt für die Löschverpflichtung,"P, D, C",V1.0
+M60.S09,Technische Systeme zur automatisierten zeitgesteuerten Löschung unter Nutzung von Zeitstempelsystemen oder durch Auswertungen anderer Zuordnungssysteme oder entsprechende Löschattribute,"P, D",V1.0
+M60.S10,"Technische Systeme, die bei einer Rücksicherung von Datenbeständen aus Backups oder Datensicherungen sicherstellen, dass Daten, die im Original gelöscht wurden, nicht weiter genutzt oder verarbeitet werden","P, D",V1.0
+M60.P01,Festlegung von Löschfristen,"P, D",V1.0
+M60.P02,Dokumentation von Löschfristen (ggf. im Verzeichnis von Verarbeitungstätigkeiten),P,V1.0
+M60.P03,Löschkonzept,P,V1.0
+M60.P04,Regelungen mit besonderen Löschvorgaben für Protokolldaten unter Berücksichtigung der speziellen Aufbewahrungs- und Zweckbindungsvorgaben,P,V1.0
+M60.P05,"Regelungen zum Löschen von Daten, die im Rahmen der Datenverarbeitung im Auftrag bei Auftragnehmern gespeichert sind",P,V1.0
+M60.P06,"Prozess zur zeitgesteuerten, automatisierten Löschung von Daten",D,V1.0
+M60.P07,Einbeziehung des Löschgrundes in die Auswahl eines Löschprozesses,P,V1.0
+M60.P08,Prozess zur Überwachung der Rücksicherung hinsichtlich möglicher Löschpflichten,"P, D, C",V1.0
+M60.P09,Regelungen zum Umgang mit Verschlüsselungsschlüsseln von zu löschenden (verschlüsselten) Daten,P,V1.0
+M60.P10,Regeln zum Löschen von Verschlüsselungsschlüsseln,P,V1.0
+M60.P11,Regelungen zur Dokumentation von Veröffentlichung von Daten,P,V1.0
+M60.P12,Prozess zur Protokollierung der Übermittlung personenbezogener Daten,"P, D",V1.0
+M60.P13,Prozess zur Information möglicher Datenempfänger über die Pflicht zur Löschung dieser Daten,"P, D",V1.0
+M60.P14,Dokumentation der Anzahl und des Speicherortes von Kopien,"P, D",V1.0

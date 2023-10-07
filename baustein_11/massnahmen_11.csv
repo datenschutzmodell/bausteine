@@ -1,0 +1,36 @@
+Nr.,Maßnahme,PDCA,Gültigkeit
+M11.D01,Inventur aller vorhandenen Daten-Formate vor dem Aufbewahren,"P, D",V1.0
+M11.D02,Festlegung und Dokumentation geeigneter Datenformate für die aufzubewahrenden Daten,P,V1.0
+M11.D03,"Definition der signifikanten Eigenschaften der im Langzeitspeicher abzulegenden Dokument-Typen, ihrer zukünftige Ziel- oder Nutzergruppe sowie der Art der zukünftigen Verwendung",P,V1.0
+M11.D04,"Festlegung von Art, Umfang und Format der mit aufzubewahrenden Metadaten",P,V1.0
+M11.D05,"Dokumentation und Archivierung der Schemata, welche die Struktur der genutzten Datenfelder und -typen beschreiben",P,V1.0
+M11.D06,Einhaltung der Vorkehrungen der eIDAS-Verordnung sowie des Vertrauensdienstegesetzes zur Sicherung der Authentizität und des Beweiswertes von Daten,P,V1.0
+M11.D07,Verschlüsselung gespeicherter Daten,"P, D",V1.0
+M11.D08,Verwendung von Sidecar-Dateien,"P, D",V1.0
+M11.D09,Fehlerkorrekturverfahren bei der Datenspeicherung,"P, D",V1.0
+M11.S01,Ausdruck von aufzubewahrenden Daten auf Papier,D,V1.0
+M11.S02,Aufbewahrung der während der Verarbeitungsphase verwendeten Hard- und Softwarekomponenten für den Zeitraum der Langzeitspeicherun,D,V1.0
+M11.S03,Einsatz von Virtualisierungs- oder Emulationstechniken zum Erhalt der Lauffähigkeit veralteter Software,D,V1.0
+M11.S04,"Spezielle Zugriffsschutzmechanismen für Hard- und Softwarekomponenten, die nicht mehr dem Stand der Technik entsprechen","P, D",V1.0
+M11.S05,Überführung aufzubewahrender Daten in neue digitale Repräsentationen,D,V1.0
+M11.S06,Redundante Vorhaltung von Datenbeständen,"P, D",V1.0
+M11.S07,Räumlich verteilte Speicherung von Daten,P,V1.0
+M11.S08,Parallele Nutzung unterschiedlicher Speichersysteme,D,V1.0
+M11.S09,Regelmäßiges Ersetzen von Datenträgern und Speichersystemen,D,V1.0
+M11.S10,Regelmäßige Migration auf andere Speichersysteme,D,V1.0
+M11.S11,Bereitstellung der erforderlichen elektronischen Beweisdaten durch die Middleware,"P, D",V1.0
+M11.S12,Backup- und Restore-Systeme für aufbewahrte Daten,D,V1.0
+M11.S13,technische Systeme zur Realisierung von Mandantentrennungen,P,V1.0
+M11.S14,Einsatz Beweiswert erhaltender Speichertechniken,P,V1.0
+M11.S15,Unterbringung der technischen Komponenten in zertifizierten Hochsicherheitsrechenzentren,P,V1.0
+M11.S16,Integritäts- und Signaturprüfungen,P,V1.0
+M11.S17,Identitätsmanagementsysteme,D,V1.0
+M11.S18,Zwei-Faktor-Authentisierung,D,V1.0
+M11.P01,Festlegung von Zuständigkeiten für alle Details des Aufbewahrens,P,V1.0
+M11.P02,Definition der Kriterien für die Auswahl der technischen Systeme zur Erhaltung der Daten,P,V1.0
+M11.P03,rechtzeitige Festlegung des Zeitpunktes der Konvertierung in das Aufbewahrungsformat bzw. der Migrationauf andere Speichersysteme,P,V1.0
+M11.P04,integritätssichernde Konvertierungstools,"P, D",V1.0
+M11.P05,Regeln zum Umgang mit versionierten Daten,P,V1.0
+M11.P06,"Dokumentation aller manipulierenden Operationen an den digitalen Objekten, die zur dauerhaften Aufbewahrung erforderlich sind",D,V1.0
+M11.P07,Sicherungs- und Rücksicherungs-Strategien,P,V1.0
+M11.P08,Prozess zur Prüfung der Einhaltung vorgegebener Fristen zur Wiederherstellung von Daten,"P, D",V1.0

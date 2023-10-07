@@ -1,0 +1,33 @@
+Nr.,Maßnahme,PDCA,Gültigkeit
+M43.D01,Zeitstempel standardisieren,P,V1.0
+M43.D02,Bezeichner der Instanz festlegen,P,V1.0
+M43.D03,Bezeichner für Aktivität festlegen,P,V1.0
+M43.D04,Protokollierungsinstanz festlegen,P,V1.0
+M43.D05,Löschfristen für Protokolldaten festlegen,P,V1.0
+M43.D06,Inhalte der Protokollierung der Sachbearbeitung festlegen,P,V1.0
+M43.D07,Integritätssicherung der Protokollierung auf Ebene Sachbearbeitung,P,V1.0
+M43.D08,Inhalte der Protokollierung der Systemaktivitäten festlegen,P,V1.0
+M43.D09,Inhalte der Protokollierung von Administrationstätigkeiten festlegen,P,V1.0
+M43.D10,Inhalte der Protokollierung der Schnittstellen festlegen,P,V1.0
+M43.D11,"Protokolldaten inventarisieren (kontrollieren, prüfen beurteilen)","P, D",V1.0
+M43.D12,Protokolldaten filtern,"P, D",V1.0
+M43.D13,Protokolldaten normalisieren / standardisieren,"P, D",V1.0
+M43.D13,Protokolldaten normalisieren / standardisieren,"P, D",V1.0
+M43.D14,Protokolldaten aggregieren / zusammenfassen,"P, D",V1.0
+M43.D15,Protokolldaten kategorisieren,"P, D",V1.0
+M43.D16,Protokolldaten priorisieren,"P, D",V1.0
+M43.D17,Protokollbearbeitungsskripte integritätssichern,"P, D",V1.0
+M43.D18,Liste mit kritischen Zeichenketten für Protokolldatenanalyse erstellen, D,V1.0
+M43.D19,Einsatz von zertifizierten Zeitstempeln in Protokolleinträgen,"P, D",V1.0
+M43.S01,Korrelationen von Protokollen über verschiedene Ebenen der Verarbeitungstätigkeiten prüfen zwecks Sicherstellung der Zweckbindung und „Abschreckung“ vor unbefugtem Mißbrauch,"P, D, C",V1.0
+M43.S02,Protokolldaten mit „Log-Analyzern“ analysieren,"P, D, C",V1.0
+M43.S03,"Ausführen von Befehlen, wenn bestimmte Protokolleinträge erscheinen","P, D",V1.0
+M43.P01,Protokollierungskonzept erstellen,P,V1.0
+M43.P02,Usecases bilden und Vollständigkeit und Verständlichkeit von Protokolldaten prüfen,"P, C",V1.0
+M43.P03,Aktivitäten der Systemadministration protokollieren,"P, D",V1.0
+M43.P04,Reports aus Protokolldaten erstellen,"D, C",V1.0
+M43.P05,Fragen zur Spezifikation von Protokolldaten,"P, D, C",V1.0
+M43.P06,Einsetzen eines Protokollservers,"P, D",V1.0
+M43.P07,Sichern des Transfers von Protokolldaten,"P, D",V1.0
+M43.P08,"Dokumentation von Prüfergebnissen, insbesondere wenn Fehler behoben wurden","D, C",V1.0
+M43.P09,"Prüfen, ob Protokollierung ihrerseits als Verarbeitungstätigkeit zu gestalten ist",P,V1.0
