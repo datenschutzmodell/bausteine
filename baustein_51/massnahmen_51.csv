@@ -54,6 +54,7 @@ M51.P30,Informieren der Benutzer von Systemen und Diensten über die jeweils gü
 M51.P31,"Ausweisen im Rollen- und Berechtigungskonzept die Berechtigungen der einzelnen Benutzerrollen, die Protokollierungsart der Aktionen der Benutzer und das Verfahren, mit dem Benutzer und Benutzerrollen verwaltet und Berechtigungen für den Zugriff auf Daten, Systeme und Dienste vergeben bzw. entzogen werden",Normal,"P, D, C",V1.0
 M51.P32,Berücksichtigung ggf. der besonderen Anforderungen im Falle einer Auftragsverarbeitung bei der Maßnahme M51.P31,Normal,"P, D, C",V1.0
 M51.P33,Testen des vorläufiges RBK in Bezug auf eine jeweils bestimmte Verarbeitung,Normal,P,V1.0
+M51.P34,"Kontrolliertes Überführen der Konfigurationen aus der Entwicklungs- in die Produktionsphase; Überprüfen und Abnahme des RBK in der Pilotierungsphase",Normal,"P, D",V1.0
 M51.P35,"Gewährleisten, dass die Kombination unterschiedlicher Benutzerrollen nicht zu einer unzulässigen Gesamtberechtigung führen",Normal,P,V1.0
 M51.P36,Erstellen eines Kapitels im Berechtigungskonzept für Querschnittsaufgaben,Normal,"P, D, C",V1.0
 M51.P37,Absichern von gemeinsamen Berechtigungen unterschiedlicher Rollenträger bei Querschnittaufgaben durch Vier-Augen-Prinzip,Normal,"P, D",V1.0
