@@ -70,6 +70,7 @@ M51.P47,"Turnusmäßiges Überprüfen und Dokumentieren der Zuweisungen von Pers
 M51.P48,"Informieren Personen mit sensiblen Rollen und Prüfen, welche Personen auf Verschwiegenheit zu verpflichten sind","P, D, C",V1.0
 M51.P49,"Prüfen, ob Personen zusätzlich einer Sicherheitsprüfung zu unterziehen sind","P, D, C",V1.0
 M51.P50,"Entscheiden und Dokumentieren, ob Externe Verarbeitungen mit hohem Risiko ausführen dürfen; wenn ja, ist festzulegen, welche diese sind","P, D, C",V1.0
+M51.P51,"Standardisieren von sehr engen und klaren Aktivitäten bei Verarbeitungen mit hohem Risiko", "P, D, C", V1.0
 M51.P52,"Berücksichtigen der Funktionstrennung sowohl bei der Zuordnung der Berechtigungen zu einer Benutzerrolle als auch bei der Zuordnung von Personen zur Benutzerrolle","P, D, C",V1.0
 M51.P53,"Leichte Zugänglichmachen der Vorgaben für die Aktivitäten sowie den System- und Dienstebetrieb für alle befassten Beschäftigten","P, D, C",V1.0
 M51.P54,"Schützen des RBK und der Vorgaben vor unberechtigter Kenntnisnahme","P, D, C",V1.0
@@ -78,5 +79,5 @@ M51.P56,"Definieren, Regeln und Protokollieren von Befugnissen, in denen Hierarc
 M51.P57,"Sicherstellen der Fortschreibung des RBK und der Vorgaben durch die zur Fortschreibung Befugten","P, D, C",V1.0
 M51.P58,"Revisionsfestes Dokumentieren und Protokollieren von Änderungen im RBK","P, D, C",V1.0
 M51.P59,"Revisionsfestes Dokumentieren und Protokollieren von Organisations- und Arbeitsstrukturänderungen, sofern diese sich auf Rollendefinitionen und Zugriffsrechte auswirken","P, D, C",V1.0
-M51.P60,"Vorlegen des RBK mit spezifischem Bezug zur Administration durch Auftragsverarbeiter","P, D, C",V1
+M51.P60,"Vorlegen des RBK mit spezifischem Bezug zur Administration durch Auftragsverarbeiter","P, D, C",V1.0
 M51.P61,"Identifizieren, Bearbeiten und Dokumentieren von Verstößen gegen das RBK","P, D, C",V1.0
