@@ -1,36 +1,39 @@
-Nr.,Maßnahme,PDCA,Gültigkeit
-M50.D01,"Zweckbeschreibung, Zwecktrennung und Zweckbindung durchführen und dokumentieren,P,V1.0\nM50.D02,Prüfung der Rechtsgrundlage für jede Datenübermittlung,P,V1.0\nM50.D03,Vertragliche Festlegung der Suchkriterien für zu übermittelnde Daten,P,V1.0\nM50.D04,Protokollierung jeder Datenübermittlung,", D,V1.0
-M50.S01,Nachweis der Prüffähigkeit der von ihm betriebenen Systeme bzgl. der Wirksamkeit der Trennung zu anderen Verarbeitungen und Organisation durch den Dienstleister,C,V1.0
-M50.S02,Nachweis der Abgeschlossenheit eines Mandanten,"P, D, C",V1.0
-M50.S03,Sicherheitstechnische Isolation eines Mandanten,"P, D, C",V1.0
-M50.S04,Mandantenspezifische Benutzerkennungen,"P, D",V1.0
-M50.S05,Getrennte Systeme zur Berechtigungsvergabe,P,V1.0
-M50.S06,Konfigurierbarkeit der Nutzungsprotokollierung,"P, D",V1.0
-M50.S07,Protokollierung der (mandantenspezifischen und mandantenübergreifenden) Administrationsaktivitäten,D,V1.0
-M50.S08,Mandantentrennung innerhalb einer relationalen Datenbank,"P, D",V1.0
-M50.S09,"Festlegung von Funktionen, die verarbeitungs- oder systemübergreifend zur Verwaltung von Personen und technischen Ressourcen genutzt werden dürfen",P,V1.0
-M50.S10,"Trennung von Datenbeständen, IT-Komponenten oder Netzen für die Sachbearbeitung, für die Administration sowie für besondere Services wie bspw. Drucker bei hohem Schutzbedarf","P, D",V1.0
-M50.S11,Mandantenspezifisch abgeschlossene Berechtigungsvergabe,"P, D",V1.0
-M50.S12,Mandantenspezifisch abgeschlossene Rollendefinitionen,"P, D",V1.0
-M50.S13,Mandantenspezifische Protokollierung,D,V1.0
-M50.S14,Mandantenübergreifende Protokollierung der Administration,D,V1.0
-M50.S15,Definition der Revisionsaktivitäten über das Gesamtsystem,P,V1.0
-M50.S16,Mandantenübergreifende Datenzugriffe müssen definiert und mit Rechtsgrundlage ausgestattet sein,P,V1.0
-M50.S17,Es darf keine zusätzlich eingesetzte Softwarekomponente eine bereits durchgesetzte Mandantentrennung aufheben,"P, D",V1.0
-M50.P01,Mandantenübergreifendes Administrationskonzept,P,V1.0
-M50.P02,Mandantenspezifisches- und mandantenübergreifendes Berichtswesen,"P, D",V1.0
-M50.P03,Angemessene Auswahl eines zur Umsetzung von Trennungsgeboten geeigneten Auftragsverarbeiters (bspw. Rechenzentrum als Dienstleister),P,V1.0
-M50.P04,Definition von Prozessen für das mandantenspezifische und das mandantenübergreifende Changemanagement,P,V1.0
-M50.P05,Überwachung von Managementprozessen einschließlich der Korrektur bei Abweichungen,C,V1.0
-M50.P06,"Einbindung des gemeinsamen, mandantenübergreifenden Datenschutz- und Sicherheitsmanagement in die betrieblichen Prozesse der gemeinsam genutzten Informationstechnik","P, D, C",V1.0
-M50.P07,Regelmäßige Überprüfung der mandantenübergreifend genutzten Informationstechnik durch das Datenschutzmanagement,C,V1.0
-M50.P08,P27 Prüfung der Rechtsgrundlage bei Datenübermittlung zwischen Mandanten,P,V1.0
-M50.P09,Notfall-Konzept mit gestufter Aufgabe von Trennungen,P,V1.0
-M50.P10,Dokumentation von Restrisiken,P,V1.0
-M50.P11,Getrennte Einrichtung von IT-Komponenten und Diensten,"P, D",V1.0
-M50.P12,Dokumentation von Restrisiken durch alle an der getrennten Datenverarbeitung beteiligten Verantwortlichen,P,V1.0
-M50.P13,Mandantenübergreifendes Datenschutz- und Sicherheitsmanagement,"P, D, C",V1.0
-M50.P14,Dokumentation der Wirksamkeit der Trennungsmaßnahmen anhand von Protokollen,"P, C",V1.0
-M50.P15,Vereinbarungen zwischen Beteiligten an gemeinsam genutzter Informationstechnik gem. Art. 26 DS-GVO treffen,P,V1.0
-M50.P16,Verträge zwischen Verantwortlichen und Auftragsverarbeitern gem. Art. 28 DS-GVO schließen,P,V1.0
-M50.P17,Prüfen der Übermittlung zwischen Mandanten im Hinblick auf Erhalt der Integrität,"P, D, C", V1.0
+Nr.,Maßnahme,Normal,PDCA,Gültigkeit
+M50.D01,"Zweckbeschreibung, Zwecktrennung und Zweckbindung durchführen und dokumentieren",Normal,P,V1.0
+M50.D02,"Prüfung der Rechtsgrundlage für jede Datenübermittlung""",Normal,P,V1.0
+M50.D03,Vertragliche Festlegung der Suchkriterien für zu übermittelnde Daten,Normal,P,V1.0
+M50.D04,Protokollierung jeder Datenübermittlung,Normal,"P, D",V1.0
+M50.S01,Nachweis der Prüffähigkeit der von ihm betriebenen Systeme bzgl. der Wirksamkeit der Trennung zu anderen Verarbeitungen und Organisation durch den Dienstleister,Normal,C,V1.0
+M50.S02,Nachweis der Abgeschlossenheit eines Mandanten,Normal,"P, D, C",V1.0
+M50.S03,Sicherheitstechnische Isolation eines Mandanten,Normal,"P, D, C",V1.0
+M50.S04,Mandantenspezifische Benutzerkennungen,Normal,"P, D",V1.0
+M50.S05,Getrennte Systeme zur Berechtigungsvergabe,Normal,P,V1.0
+M50.S06,Konfigurierbarkeit der Nutzungsprotokollierung,Normal,"P, D",V1.0
+M50.S07,Protokollierung der (mandantenspezifischen und mandantenübergreifenden) Administrationsaktivitäten,Normal,D,V1.0
+M50.S08,Mandantentrennung innerhalb einer relationalen Datenbank,Normal,"P, D",V1.0
+M50.S09,"Festlegung von Funktionen, die verarbeitungs- oder systemübergreifend zur Verwaltung von Personen und technischen Ressourcen genutzt werden dürfen",Normal,P,V1.0
+M50.S10,"Trennung von Datenbeständen, IT-Komponenten oder Netzen für die Sachbearbeitung, für die Administration sowie für besondere Services wie bspw. Drucker bei hohem Schutzbedarf",Hoch,"P, D",V1.0
+M50.S11,Mandantenspezifisch abgeschlossene Berechtigungsvergabe,Normal,"P, D",V1.0
+M50.S12,Mandantenspezifisch abgeschlossene Rollendefinitionen,Normal,"P, D",V1.0
+M50.S13,Mandantenspezifische Protokollierung,Normal,D,V1.0
+M50.S14,Mandantenübergreifende Protokollierung der Administration,Normal,D,V1.0
+M50.S15,Definition der Revisionsaktivitäten über das Gesamtsystem,Normal,P,V1.0
+M50.S16,Mandantenübergreifende Datenzugriffe müssen definiert und mit Rechtsgrundlage ausgestattet sein,Normal,P,V1.0
+M50.S17,Es darf keine zusätzlich eingesetzte Softwarekomponente eine bereits durchgesetzte Mandantentrennung aufheben,Normal,"P, D",V1.0
+M50.P01,Mandantenübergreifendes Administrationskonzept,Normal,P,V1.0
+M50.P02,Mandantenspezifisches- und mandantenübergreifendes Berichtswesen,Normal,"P, D",V1.0
+M50.P03,Angemessene Auswahl eines zur Umsetzung von Trennungsgeboten geeigneten Auftragsverarbeiters (bspw. Rechenzentrum als Dienstleister),Normal,P,V1.0
+M50.P04,Definition von Prozessen für das mandantenspezifische und das mandantenübergreifende Changemanagement,Normal,P,V1.0
+M50.P05,Überwachung von Managementprozessen einschließlich der Korrektur bei Abweichungen,Normal,C,V1.0
+M50.P06,"Einbindung des gemeinsamen, mandantenübergreifenden Datenschutz- und Sicherheitsmanagement in die betrieblichen Prozesse der gemeinsam genutzten Informationstechnik",Normal,"P, D, C",V1.0
+M50.P07,Regelmäßige Überprüfung der mandantenübergreifend genutzten Informationstechnik durch das Datenschutzmanagement,Normal,C,V1.0
+M50.P08,P27 Prüfung der Rechtsgrundlage bei Datenübermittlung zwischen Mandanten,Normal,P,V1.0
+M50.P09,Notfall-Konzept mit gestufter Aufgabe von Trennungen,Normal,P,V1.0
+M50.P10,Dokumentation von Restrisiken,Normal,P,V1.0
+M50.P11,Getrennte Einrichtung von IT-Komponenten und Diensten,Normal,"P, D",V1.0
+M50.P12,Dokumentation von Restrisiken durch alle an der getrennten Datenverarbeitung beteiligten Verantwortlichen,Normal,P,V1.0
+M50.P13,Mandantenübergreifendes Datenschutz- und Sicherheitsmanagement,Normal,"P, D, C",V1.0
+M50.P14,Dokumentation der Wirksamkeit der Trennungsmaßnahmen anhand von Protokollen,Normal,"P, C",V1.0
+M50.P15,Vereinbarungen zwischen Beteiligten an gemeinsam genutzter Informationstechnik gem. Art. 26 DS-GVO treffen,Normal,P,V1.0
+M50.P16,Verträge zwischen Verantwortlichen und Auftragsverarbeitern gem. Art. 28 DS-GVO schließen,Normal,P,V1.0
+M50.P17,Prüfen der Übermittlung zwischen Mandanten im Hinblick auf Erhalt der Integrität,Normal,"P, D, C"," V1.0"
