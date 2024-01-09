@@ -1,83 +1,83 @@
-Nr.;Maßnahme;Datenschutzrisiko;P, D, C, A1;Gültigkeit;;;
-M51.D01;Festlegen und dokumentieren der personenbezogenen Daten in den einzelnen Verarbeitungsvorgängen;Normal;P;V1.0;;;
-M51.D02;Festlegen und dokumentieren, zu welchen Zeitpunkten personenbezogene Daten verarbeitet werden dürfen (Fristen);Normal;P, D, C;V1.0;;;
-M51.D03;Festlegen und dokumentieren der personenbezogenen Daten zur Authentisierung und Autorisierung;Normal;P, D, C;V1.0;;;
-M51.D04;Festlegen und dokumentieren, welche personenbezogenen Daten in welchen Speicherorten bzw. in welchen jeweiligen Systemen und Diensten verarbeitet werden;Normal;P, D, C;V1.0;;;
-M51.D05;Identifizieren und Festlegen von Rollen in Systemen und Diensten mit den hierfür benötigten Daten korrekte Umsetzung der Benutzerrollen und deren Berechtigungen in Systemen und Diensten testen und freigeben;Normal;P, D, C;V1.0;;;
-M51.S01;Modellieren und Dokumentieren der Verknüpfung zwischen Prozess- und Benutzerrollen;Normal;P, C;V1.0;;;
-M51.S02;Trennen von Verarbeitungen mit unterschiedlichen Zwecken und Aufgaben auf fachlicher und auch entsprechend auf technischer Ebene;Normal;P, D, C;V1.0;;;
-M51.S03;Absichern der wirksamen Umsetzung des RZB und RBK durch technische und organisatorische Maßnahmen;Normal;P, D, C;V1.0;;;
-M51.S04;Erstellen eines Rollen und Berechtigungskonzepts, in dem Aufgaben das RZK und mit den technischen Funktionen des RBK verbunden werden;Normal;P, D, C;V1.0;;;
-M51.S05;Authentifizieren und Autorisierung umsetzen;Normal;P, D, C, A;V1.0;;;
-M51.S06;Konfigurieren der Systeme, Dienste und Prozesse beim Übergang von Projektbetrieb in Linienbetrieb;Normal;P, D, C;V1.0;;;
-M51.S07;Dokumentieren der Verbindungen und Datenflüssen zwischen allen Systemen in Netzplänen;Normal;P, D;V1.0;;;
-M51.S08;Dokumentieren der Datenflüsse (Schnittstellen, Protokolle, Flussrichtungen, Absicherungsmaßnahmen);Normal;P, D;V1.0;;;
-M51.S09;Protokollieren von Administrationszugriffen;Normal;P, D, C;V1.0;;;
-M51.S10;Evaluieren der Systeme und Dienste, spätestens nach einem Update der Systeme und Dienste;Normal;C;V1.0;;;
-M51.S11;Authentifizierung per Single-Sign-On (SSO);Normal;P, D;V1.0;;;
-M51.S12;Verwalten von Benutzern für Computer für spezielle Zwecke (oft „Stand-Alone-Computer“);Normal;;V1.0;;;
-M51.S13;Revisionssicher nachweisen, zu welchem Zeitpunkt welchem Benutzer welche Rolle(n) zugewiesen oder entzogen wurden;Normal;P, D;V1.0;;;
-M51.S14;Sichtbarmachung, Berechtigen und Protokollieren von technischen Systemnutzern;Normal;P, D;V1.0;;;
-M51.S15;Etablierung von Prozessen und Systemen für die Registrierung bei direktem IT-Zugang für betroffene Personen;Normal;P, D;V1.0;;;
-M51.S16;Befristen der Rollen bei Verarbeitungen mit hohem Risiko (zeitlich oder auch ereignisgesteuert);Normal;P, D, C;V1.0;;;
-M51.S17;Protokollieren temporärer Befugnisse;Normal;P, D, C;V1.0;;;
-M51.P01;Standardisieren der Aufgaben und Aktivitäten mit Hilfe von IT-gestützten Prozessen;Normal;P, C;V1.0;;;
-M51.P02;Analysieren und Dokumentieren der Verarbeitungstätigkeit mit den Aktivitäten Betriebsmitteln, personenbezogene Daten, Systemen und Diensten;Normal;P, C;V1.0;;;
-M51.P03;Definieren und Dokumentieren von Verarbeitungsvorgängen;Normal;P, D;V1.0;;;
-M51.P04;Definieren und Dokumentieren von Aufgaben und Funktionen, strukturiert nach Abteilungen bzw. Referaten sowie innerhalb dieser;Normal;P, D;V1.0;;;
-M51.P05;Definieren und Dokumentieren der Prozessrollen, mit denen Aufgaben erledigt werden;Normal;P, D;V1.0;;;
-M51.P06;Definieren und Dokumentieren der Benutzerrollen;Normal;P, D;V1.0;;;
-M51.P07;Spezifizieren, wie die Verarbeitungstätigkeiten mit der Unterstützung von eingesetzten Systemen und Diensten realisiert werden;Normal;P;V1.0;;;
-M51.P08;Begründen, rechtlich Beurteilen und Dokumentieren falls fachliche Anforderungen an die Verarbeitungstätigkeit nicht vollständig in die technische Ebene transformiert werden können;Normal;D, C;V1.0;;;
-M51.P09;Dokumentieren von Verarbeitungsvorgängen und die daraus abgeleiteten Aufgaben und Prozessrollen bereits in der Planungsphase;Normal;P;V1.0;;;
-M51.P10;Festlegen, welche Verarbeitung durch welche Person ausgeführt wird, mittels Vergabe von Prozess- und Benutzerrollen;Normal;P, D, C;V1.0;;;
-M51.P11;Festlegen eines Ablaufs für die Zuweisung (und den Entzug) von Zuständigkeiten und Berechtigungen;Normal;P, D, C;V1.0;;;
-M51.P12;Einrichtung einer Rolle, die für die Zuordnung Änderung und den Entzug von Personen zu Rollen zuständig ist;Normal;P, D, C;V1.0;;;
-M51.P13;Vermeiden von Vertretungen aus Bereichen mit anderen Verarbeitungszwecken;Normal;P, D, C;V1.0;;;
-M51.P14;Einschränken der Rechte von Vertretungen nach dem „need to know“-Prinzip;Normal;P, D, C;V1.0;;;
-M51.P15;Regelmäßige Revision des RZB und RBK im Change Management integrieren;Normal;C;V1.0;;;
-M51.P16;Entziehen von Zuständigkeiten und Berechtigung nach dem Entzug von organisationsspezifischen Befugnissen;Normal;P, D, C;V1.0;;;
-M51.P17;Prüfen und ggf. Entziehen von Prozess- und Benutzerrollen, wenn die Verarbeitungstätigkeit verändert oder eingestellt wird;Normal;D, C;V1.0;;;
-M51.P18;Identifizieren und Festlegen der Prozessrollen zusammen mit ihren Aktivitäten durch Analyse der Aufgaben und organisatorischen Verantwortung;Normal;P, D, C;V1.0;;;
-M51.P19;Zuweisen von Aufgaben und Funktionen an Prozessrollen;Normal;P, D;V1.0;;;
-M51.P20;Regeln der Auftragsverarbeitung und Zuordnung von Aufgaben zusammen mit den entsprechenden Prozessrollen;Normal;P;V1.0;;;
-M51.P21;Zuweisen von Personen und automatisiertern Prozessen zu Prozessrollen;Normal;P, D;V1.0;;;
-M51.P22;Erstellen eines Berechtigungskonzepts für Notfall-Management;Normal;P, D, C;V1.0;;;
-M51.P23;Konkretisieren externer Richtlinien für interne Verhältnisse, so dass sie organisationsspezifisch sind;Normal;P, D, C;V1.0;;;
-M51.P24;Prüfen und ggfs. Umsetzen (veränderter) gesetzlicher Regelungen sowie des (veränderten) Stands der Technik;Normal;P, D, C;V1.0;;;
-M51.P25;Unterweisen der Beschäftigten, wie personenbezogen Daten im Zuständigkeitsbereich verarbeitet werden;Normal;D;V1.0;;;
-M51.P26;Schulen von Beschäftigten, auch zur Steigerung der Sensibilität;Normal;P, D, C;V1.0;;;
-M51.P27;Dokumentieren (Nachweisen), dass Beschäftigte über geltende Vorgaben informiert wurden;Normal;D, C;V1.0;;;
-M51.P28;Informieren der betroffenen Beteiligten und Beschäftigten über Änderungen im Betriebsablauf;Normal;D;V1.0;;;
-M51.P29;Berücksichtigen der Anforderungen des Beschäftigten-Datenschutzes;Normal;P, D, C;V1.0;;;
-M51.P30;Informieren der Benutzer von Systemen und Diensten über die jeweils gültigen Nutzungsvorgaben;Normal;P, D, C;V1.0;;;
-M51.P31;Ausweisen im Rollen- und Berechtigungskonzept die Berechtigungen der einzelnen Benutzerrollen, die Protokollierungsart der Aktionen der Benutzer und das Verfahren, mit dem Benutzer und Benutzerrollen verwaltet und Berechtigungen für den Zugriff auf Daten, Systeme und Dienste vergeben bzw. entzogen werden;Normal;P, D, C;V1.0;;;
-M51.P32;Berücksichtigung ggf. der besonderen Anforderungen im Falle einer Auftragsverarbeitung bei der Maßnahme M51.P31;Normal;P, D, C;V1.0;;;
-M51.P33;Testen des vorläufiges RBK in Bezug auf eine jeweils bestimmte Verarbeitung;Normal;P;V1.0;;;
-M51.P35;Gewährleisten, dass die Kombination unterschiedlicher Benutzerrollen nicht zu einer unzulässigen Gesamtberechtigung führen;Normal;P;V1.0;;;
-M51.P36;Erstellen eines Kapitels im Berechtigungskonzept für Querschnittsaufgaben;Normal;P, D, C;V1.0;;;
-M51.P37;Absichern von gemeinsamen Berechtigungen unterschiedlicher Rollenträger bei Querschnittaufgaben durch Vier-Augen-Prinzip;Normal;P, D;V1.0;;;
-M51.P38;Rollen managen beim Übergang von Projektbetrieb in Linienbetrieb, z. B. Berechtigungen der Entwicklungsabteilung entziehen;Normal;P, D, C;V1.0;;;
-M51.P39;Umsetzung von Schutzmaßnahmen zur Verhinderung der Umgehung festgelegter Berechtigungen;Normal;P, D, C;V1.0;;;
-M51.P40;Absichern und Beschränken der Berechtigungen von technischen Systemnutzern und Standard-Benutzern im Auslieferungszustand von Systemen und Diensten;Normal;P, D, C;V1.0;;;
-M51.P41;Festlegen von gesonderten Regelungen für administrative Aufgaben im RBK;Normal;P, D, C;V1.0;;;
-M51.P42;Striktes Trennen administrativer Rollen;Normal;P, D, C;V1.0;;;
-M51.P43;Zuweisen von Benutzerrollen und der organisatorischen Verantwortlichkeit für automatisierte Abläufe;Normal;P, D, C;V1.0;;;
-M51.P44;Berücksichtigen von Verarbeitungsänderungen bei automatisierten Abläufen;Normal;P, D, C;V1.0;;;
-M51.P45;Evaluieren und Dokumentieren der vergebenen Berechtigungen sowie Sicherstellen, dass Personen und technische Systemnutzer mit ihren Benutzerrollen korrekt verknüpft sind;Normal;P, D, C;V1.0;;;
-M51.P46;Identifizieren und Bearbeiten von Schutzmaßnahmen mit Bezug zu Zuständigkeiten und Berechtigungen im Rahmen einer DSFA;Normal;P, D, C;V1.0;;;
-M51.P47;Turnusmäßiges Überprüfen und Dokumentieren der Zuweisungen von Personen zu Rollen und Berechtigungen, die zur Durchführung einer verarbeitungsspezifischen Aktivität benötigt werden;Normal;P, D, C;V1.0;;;
-M51.P48;Informieren Personen mit sensiblen Rollen und Prüfen, welche Personen auf Verschwiegenheit zu verpflichten sind;Normal;P, D, C;V1.0;;;
-M51.P49;Prüfen, ob Personen zusätzlich einer Sicherheitsprüfung zu unterziehen sind;Normal;P, D, C;V1.0;;;
-M51.P50;"Entscheiden und Dokumentieren, ob Externe Verarbeitungen mit hohem Risiko ausführen dürfen; wenn ja, ist festzulegen, welche diese sind";Normal;P, D, C;V1.0;;;
-M51.P51;Standardisieren von sehr engen und klaren Aktivitäten bei Verarbeitungen mit hohem Risiko;Normal;P, D, C;V1.0;;;
-M51.P52;Berücksichtigen der Funktionstrennung sowohl bei der Zuordnung der Berechtigungen zu einer Benutzerrolle als auch bei der Zuordnung von Personen zur Benutzerrolle;Normal;P, D, C;V1.0;;;
-M51.P53;Leichte Zugänglichmachen der Vorgaben für die Aktivitäten sowie den System- und Dienstebetrieb für alle befassten Beschäftigten;Normal;P, D, C;V1.0;;;
-M51.P54;Schützen des RBK und der Vorgaben vor unberechtigter Kenntnisnahme;Normal;P, D, C;V1.0;;;
-M51.P55;Formulieren und Aktuellhalten von Vertretungsregeln (auch Vertretung für Vertretung);Normal;P, D, C;V1.0;;;
-M51.P56;Definieren, Regeln und Protokollieren von Befugnissen, in denen Hierarchien aufgehoben werden;Normal;P, D, C;V1.0;;;
-M51.P57;Sicherstellen der Fortschreibung des RBK und der Vorgaben durch die zur Fortschreibung Befugten;Normal;P, D, C;V1.0;;;
-M51.P58;Revisionsfestes Dokumentieren und Protokollieren von Änderungen im RBK;Normal;P, D, C;V1.0;;;
-M51.P59;Revisionsfestes Dokumentieren und Protokollieren von Organisations- und Arbeitsstrukturänderungen, sofern diese sich auf Rollendefinitionen und Zugriffsrechte auswirken;Normal;P, D, C;V1.0;;;
-M51.P60;Vorlegen des RBK mit spezifischem Bezug zur Administration durch Auftragsverarbeiter;Normal;P, D, C;V1;;;
-M51.P61;Identifizieren, Bearbeiten und Dokumentieren von Verstößen gegen das RBK;Normal;P, D, C;V1.0;;;
+Nr.,Maßnahme,Datenschutzrisiko,"P, D, C, A1",Gültigkeit
+M51.D01,Festlegen und dokumentieren der personenbezogenen Daten in den einzelnen Verarbeitungsvorgängen,Normal,P,V1.0
+M51.D02,"Festlegen und dokumentieren, zu welchen Zeitpunkten personenbezogene Daten verarbeitet werden dürfen (Fristen)",Normal,"P, D, C",V1.0
+M51.D03,Festlegen und dokumentieren der personenbezogenen Daten zur Authentisierung und Autorisierung,Normal,"P, D, C",V1.0
+M51.D04,"Festlegen und dokumentieren, welche personenbezogenen Daten in welchen Speicherorten bzw. in welchen jeweiligen Systemen und Diensten verarbeitet werden",Normal,"P, D, C",V1.0
+M51.D05,Identifizieren und Festlegen von Rollen in Systemen und Diensten mit den hierfür benötigten Daten korrekte Umsetzung der Benutzerrollen und deren Berechtigungen in Systemen und Diensten testen und freigeben,Normal,"P, D, C",V1.0
+M51.S01,Modellieren und Dokumentieren der Verknüpfung zwischen Prozess- und Benutzerrollen,Normal,"P, C",V1.0
+M51.S02,Trennen von Verarbeitungen mit unterschiedlichen Zwecken und Aufgaben auf fachlicher und auch entsprechend auf technischer Ebene,Normal,"P, D, C",V1.0
+M51.S03,Absichern der wirksamen Umsetzung des RZB und RBK durch technische und organisatorische Maßnahmen,Normal,"P, D, C",V1.0
+M51.S04,"Erstellen eines Rollen und Berechtigungskonzepts, in dem Aufgaben das RZK und mit den technischen Funktionen des RBK verbunden werden",Normal,"P, D, C",V1.0
+M51.S05,Authentifizieren und Autorisierung umsetzen,Normal,"P, D, C, A",V1.0
+M51.S06,"Konfigurieren der Systeme, Dienste und Prozesse beim Übergang von Projektbetrieb in Linienbetrieb",Normal,"P, D, C",V1.0
+M51.S07,Dokumentieren der Verbindungen und Datenflüssen zwischen allen Systemen in Netzplänen,Normal,"P, D",V1.0
+M51.S08,"Dokumentieren der Datenflüsse (Schnittstellen, Protokolle, Flussrichtungen, Absicherungsmaßnahmen)",Normal,"P, D",V1.0
+M51.S09,Protokollieren von Administrationszugriffen,Normal,"P, D, C",V1.0
+M51.S10,"Evaluieren der Systeme und Dienste, spätestens nach einem Update der Systeme und Dienste",Normal,C,V1.0
+M51.S11,Authentifizierung per Single-Sign-On (SSO),Normal,"P, D",V1.0
+M51.S12,Verwalten von Benutzern für Computer für spezielle Zwecke (oft „Stand-Alone-Computer“),Normal,,V1.0
+M51.S13,"Revisionssicher nachweisen, zu welchem Zeitpunkt welchem Benutzer welche Rolle(n) zugewiesen oder entzogen wurden",Normal,"P, D",V1.0
+M51.S14,"Sichtbarmachung, Berechtigen und Protokollieren von technischen Systemnutzern",Normal,"P, D",V1.0
+M51.S15,Etablierung von Prozessen und Systemen für die Registrierung bei direktem IT-Zugang für betroffene Personen,Normal,"P, D",V1.0
+M51.S16,Befristen der Rollen bei Verarbeitungen mit hohem Risiko (zeitlich oder auch ereignisgesteuert),Normal,"P, D, C",V1.0
+M51.S17,Protokollieren temporärer Befugnisse,Hoch,"P, D, C",V1.0
+M51.P01,Standardisieren der Aufgaben und Aktivitäten mit Hilfe von IT-gestützten Prozessen,Hoch,"P, C",V1.0
+M51.P02,"Analysieren und Dokumentieren der Verarbeitungstätigkeit mit den Aktivitäten Betriebsmitteln, personenbezogene Daten, Systemen und Diensten",Normal,"P, C",V1.0
+M51.P03,Definieren und Dokumentieren von Verarbeitungsvorgängen,Normal,"P, D",V1.0
+M51.P04,"Definieren und Dokumentieren von Aufgaben und Funktionen, strukturiert nach Abteilungen bzw. Referaten sowie innerhalb dieser",Normal,"P, D",V1.0
+M51.P05,"Definieren und Dokumentieren der Prozessrollen, mit denen Aufgaben erledigt werden",Normal,"P, D",V1.0
+M51.P06,Definieren und Dokumentieren der Benutzerrollen,Normal,"P, D",V1.0
+M51.P07,"Spezifizieren, wie die Verarbeitungstätigkeiten mit der Unterstützung von eingesetzten Systemen und Diensten realisiert werden",Normal,P,V1.0
+M51.P08,"Begründen, rechtlich Beurteilen und Dokumentieren falls fachliche Anforderungen an die Verarbeitungstätigkeit nicht vollständig in die technische Ebene transformiert werden können",Normal,"D, C",V1.0
+M51.P09,Dokumentieren von Verarbeitungsvorgängen und die daraus abgeleiteten Aufgaben und Prozessrollen bereits in der Planungsphase,Normal,P,V1.0
+M51.P10,"Festlegen, welche Verarbeitung durch welche Person ausgeführt wird, mittels Vergabe von Prozess- und Benutzerrollen",Normal,"P, D, C",V1.0
+M51.P11,Festlegen eines Ablaufs für die Zuweisung (und den Entzug) von Zuständigkeiten und Berechtigungen,Normal,"P, D, C",V1.0
+M51.P12,"Einrichtung einer Rolle, die für die Zuordnung Änderung und den Entzug von Personen zu Rollen zuständig ist",Normal,"P, D, C",V1.0
+M51.P13,Vermeiden von Vertretungen aus Bereichen mit anderen Verarbeitungszwecken,Normal,"P, D, C",V1.0
+M51.P14,Einschränken der Rechte von Vertretungen nach dem „need to know“-Prinzip,Normal,"P, D, C",V1.0
+M51.P15,Regelmäßige Revision des RZB und RBK im Change Management integrieren,Normal,C,V1.0
+M51.P16,Entziehen von Zuständigkeiten und Berechtigung nach dem Entzug von organisationsspezifischen Befugnissen,Normal,"P, D, C",V1.0
+M51.P17,"Prüfen und ggf. Entziehen von Prozess- und Benutzerrollen, wenn die Verarbeitungstätigkeit verändert oder eingestellt wird",Normal,"D, C",V1.0
+M51.P18,Identifizieren und Festlegen der Prozessrollen zusammen mit ihren Aktivitäten durch Analyse der Aufgaben und organisatorischen Verantwortung,Normal,"P, D, C",V1.0
+M51.P19,Zuweisen von Aufgaben und Funktionen an Prozessrollen,Normal,"P, D",V1.0
+M51.P20,Regeln der Auftragsverarbeitung und Zuordnung von Aufgaben zusammen mit den entsprechenden Prozessrollen,Normal,P,V1.0
+M51.P21,Zuweisen von Personen und automatisiertern Prozessen zu Prozessrollen,Normal,"P, D",V1.0
+M51.P22,Erstellen eines Berechtigungskonzepts für Notfall-Management,Normal,"P, D, C",V1.0
+M51.P23,"Konkretisieren externer Richtlinien für interne Verhältnisse, so dass sie organisationsspezifisch sind",Normal,"P, D, C",V1.0
+M51.P24,Prüfen und ggfs. Umsetzen (veränderter) gesetzlicher Regelungen sowie des (veränderten) Stands der Technik,Normal,"P, D, C",V1.0
+M51.P25,"Unterweisen der Beschäftigten, wie personenbezogen Daten im Zuständigkeitsbereich verarbeitet werden",Normal,D,V1.0
+M51.P26,"Schulen von Beschäftigten, auch zur Steigerung der Sensibilität",Normal,"P, D, C",V1.0
+M51.P27,"Dokumentieren (Nachweisen), dass Beschäftigte über geltende Vorgaben informiert wurden",Normal,"D, C",V1.0
+M51.P28,Informieren der betroffenen Beteiligten und Beschäftigten über Änderungen im Betriebsablauf,Normal,D,V1.0
+M51.P29,Berücksichtigen der Anforderungen des Beschäftigten-Datenschutzes,Normal,"P, D, C",V1.0
+M51.P30,Informieren der Benutzer von Systemen und Diensten über die jeweils gültigen Nutzungsvorgaben,Normal,"P, D, C",V1.0
+M51.P31,"Ausweisen im Rollen- und Berechtigungskonzept die Berechtigungen der einzelnen Benutzerrollen, die Protokollierungsart der Aktionen der Benutzer und das Verfahren, mit dem Benutzer und Benutzerrollen verwaltet und Berechtigungen für den Zugriff auf Daten, Systeme und Dienste vergeben bzw. entzogen werden",Normal,"P, D, C",V1.0
+M51.P32,Berücksichtigung ggf. der besonderen Anforderungen im Falle einer Auftragsverarbeitung bei der Maßnahme M51.P31,Normal,"P, D, C",V1.0
+M51.P33,Testen des vorläufiges RBK in Bezug auf eine jeweils bestimmte Verarbeitung,Normal,P,V1.0
+M51.P35,"Gewährleisten, dass die Kombination unterschiedlicher Benutzerrollen nicht zu einer unzulässigen Gesamtberechtigung führen",Normal,P,V1.0
+M51.P36,Erstellen eines Kapitels im Berechtigungskonzept für Querschnittsaufgaben,Normal,"P, D, C",V1.0
+M51.P37,Absichern von gemeinsamen Berechtigungen unterschiedlicher Rollenträger bei Querschnittaufgaben durch Vier-Augen-Prinzip,Normal,"P, D",V1.0
+M51.P38,"Rollen managen beim Übergang von Projektbetrieb in Linienbetrieb, z. B. Berechtigungen der Entwicklungsabteilung entziehen",Normal,"P, D, C",V1.0
+M51.P39,Umsetzung von Schutzmaßnahmen zur Verhinderung der Umgehung festgelegter Berechtigungen,Normal,"P, D, C",V1.0
+M51.P40,Absichern und Beschränken der Berechtigungen von technischen Systemnutzern und Standard-Benutzern im Auslieferungszustand von Systemen und Diensten,Normal,"P, D, C",V1.0
+M51.P41,Festlegen von gesonderten Regelungen für administrative Aufgaben im RBK,Normal,"P, D, C",V1.0
+M51.P42,Striktes Trennen administrativer Rollen,Normal,"P, D, C",V1.0
+M51.P43,Zuweisen von Benutzerrollen und der organisatorischen Verantwortlichkeit für automatisierte Abläufe,Normal,"P, D, C",V1.0
+M51.P44,Berücksichtigen von Verarbeitungsänderungen bei automatisierten Abläufen,Normal,"P, D, C",V1.0
+M51.P45,"Evaluieren und Dokumentieren der vergebenen Berechtigungen sowie Sicherstellen, dass Personen und technische Systemnutzer mit ihren Benutzerrollen korrekt verknüpft sind",Normal,"P, D, C",V1.0
+M51.P46,Identifizieren und Bearbeiten von Schutzmaßnahmen mit Bezug zu Zuständigkeiten und Berechtigungen im Rahmen einer DSFA,Normal,"P, D, C",V1.0
+M51.P47,"Turnusmäßiges Überprüfen und Dokumentieren der Zuweisungen von Personen zu Rollen und Berechtigungen, die zur Durchführung einer verarbeitungsspezifischen Aktivität benötigt werden",Hoch,"P, D, C",V1.0
+M51.P48,"Informieren Personen mit sensiblen Rollen und Prüfen, welche Personen auf Verschwiegenheit zu verpflichten sind",Hoch,"P, D, C",V1.0
+M51.P49,"Prüfen, ob Personen zusätzlich einer Sicherheitsprüfung zu unterziehen sind",Hoch,"P, D, C",V1.0
+M51.P50,"Entscheiden und Dokumentieren, ob Externe Verarbeitungen mit hohem Risiko ausführen dürfen; wenn ja, ist festzulegen, welche diese sind",Hoch,"P, D, C",V1.0
+M51.P51,Standardisieren von sehr engen und klaren Aktivitäten bei Verarbeitungen mit hohem Risiko,Hoch,"P, D, C",V1.0
+M51.P52,Berücksichtigen der Funktionstrennung sowohl bei der Zuordnung der Berechtigungen zu einer Benutzerrolle als auch bei der Zuordnung von Personen zur Benutzerrolle,Hoch,"P, D, C",V1.0
+M51.P53,Leichte Zugänglichmachen der Vorgaben für die Aktivitäten sowie den System- und Dienstebetrieb für alle befassten Beschäftigten,Hoch,"P, D, C",V1.0
+M51.P54,Schützen des RBK und der Vorgaben vor unberechtigter Kenntnisnahme,Hoch,"P, D, C",V1.0
+M51.P55,Formulieren und Aktuellhalten von Vertretungsregeln (auch Vertretung für Vertretung),Hoch,"P, D, C",V1.0
+M51.P56,"Definieren, Regeln und Protokollieren von Befugnissen, in denen Hierarchien aufgehoben werden",Hoch,"P, D, C",V1.0
+M51.P57,Sicherstellen der Fortschreibung des RBK und der Vorgaben durch die zur Fortschreibung Befugten,Hoch,"P, D, C",V1.0
+M51.P58,Revisionsfestes Dokumentieren und Protokollieren von Änderungen im RBK,Hoch,"P, D, C",V1.0
+M51.P59,"Revisionsfestes Dokumentieren und Protokollieren von Organisations- und Arbeitsstrukturänderungen, sofern diese sich auf Rollendefinitionen und Zugriffsrechte auswirken",Hoch,"P, D, C",V1.0
+M51.P60,Vorlegen des RBK mit spezifischem Bezug zur Administration durch Auftragsverarbeiter,Hoch,"P, D, C",V1
+M51.P61,"Identifizieren, Bearbeiten und Dokumentieren von Verstößen gegen das RBK",Hoch,"P, D, C",V1.0
