@@ -11,6 +11,8 @@ M60.S07,Automatisierte Überwachung von Löschfristen unter Nutzung von Zeitstem
 M60.S08,Möglichkeiten der Zuordnung zwischen Daten und dem zeitlichen Anknüpfungspunkt für die Löschverpflichtung,"P, D, C",V1.0
 M60.S09,Technische Systeme zur automatisierten zeitgesteuerten Löschung unter Nutzung von Zeitstempelsystemen oder durch Auswertungen anderer Zuordnungssysteme oder entsprechende Löschattribute,"P, D",V1.0
 M60.S10,"Technische Systeme, die bei einer Rücksicherung von Datenbeständen aus Backups oder Datensicherungen sicherstellen, dass Daten, die im Original gelöscht wurden, nicht weiter genutzt oder verarbeitet werden","P, D",V1.0
+M61.S11,"sichere Übertragungsverfahren wie Ende-zu-EndeVerschlüsselung nach dem Stand der Technik oder Einschreiben mit Rückschein bei Briefpost","P, D",V1.0
+M61.S12,"etablierter Kommunikationskanal mit aktiver Zwei-Faktor-Authentifizierung","P, D",V1.0
 M60.P01,Festlegung von Löschfristen,"P, D",V1.0
 M60.P02,Dokumentation von Löschfristen (ggf. im Verzeichnis von Verarbeitungstätigkeiten),P,V1.0
 M60.P03,Löschkonzept,P,V1.0
