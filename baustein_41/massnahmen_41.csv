@@ -1,4 +1,4 @@
-Nr.,Maßnahme,P, D, C, A1,Gültigkeit
+Nr.,Maßnahme,"P, D, C, A",Gültigkeit
 M41.D01,"Spezifikation der Daten, die von der Verarbeitungstätigkeit verarbeitet werden",P,V1.0
 M41.S01,Aufträge aus der Spezifikation sollten in Form eines Lasten und Pflichtenheft erfolgen,P,V1.0
 M41.S02,"Allgemein verständliches Erfassen und Benennen der Daten, IT-Systeme und Dienste sowie der Prozesse",P,V1.0
